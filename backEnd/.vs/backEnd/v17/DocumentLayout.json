@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dell Inspiron\\Desktop\\NEWSHORE AIR\\backEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{665E5F27-4A5E-471D-92D1-ADA6F1A5792F}|backEnd\\backEnd.csproj|e:\\dell inspiron\\desktop\\newshore air\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{665E5F27-4A5E-471D-92D1-ADA6F1A5792F}|backEnd\\backEnd.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665E5F27-4A5E-471D-92D1-ADA6F1A5792F}|backEnd\\backEnd.csproj|e:\\dell inspiron\\desktop\\newshore air\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665E5F27-4A5E-471D-92D1-ADA6F1A5792F}|backEnd\\backEnd.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665E5F27-4A5E-471D-92D1-ADA6F1A5792F}|backEnd\\backEnd.csproj|e:\\dell inspiron\\desktop\\newshore air\\backend\\backend\\controllers\\journeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665E5F27-4A5E-471D-92D1-ADA6F1A5792F}|backEnd\\backEnd.csproj|solutionrelative:backend\\controllers\\journeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665E5F27-4A5E-471D-92D1-ADA6F1A5792F}|backEnd\\backEnd.csproj|e:\\dell inspiron\\desktop\\newshore air\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{665E5F27-4A5E-471D-92D1-ADA6F1A5792F}|backEnd\\backEnd.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665E5F27-4A5E-471D-92D1-ADA6F1A5792F}|backEnd\\backEnd.csproj|e:\\dell inspiron\\desktop\\newshore air\\backend\\backend\\data\\mysqlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665E5F27-4A5E-471D-92D1-ADA6F1A5792F}|backEnd\\backEnd.csproj|solutionrelative:backend\\data\\mysqlitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Dell Inspiron\\Desktop\\NEWSHORE AIR\\backEnd\\backEnd\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backEnd\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Dell Inspiron\\Desktop\\NEWSHORE AIR\\backEnd\\backEnd\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backEnd\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T20:54:48.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JourneyController.cs",
+              "DocumentMoniker": "E:\\Dell Inspiron\\Desktop\\NEWSHORE AIR\\backEnd\\backEnd\\Controllers\\JourneyController.cs",
+              "RelativeDocumentMoniker": "backEnd\\Controllers\\JourneyController.cs",
+              "ToolTip": "E:\\Dell Inspiron\\Desktop\\NEWSHORE AIR\\backEnd\\backEnd\\Controllers\\JourneyController.cs",
+              "RelativeToolTip": "backEnd\\Controllers\\JourneyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:32:14.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dell Inspiron\\Desktop\\NEWSHORE AIR\\backEnd\\backEnd\\Program.cs",
+              "RelativeDocumentMoniker": "backEnd\\Program.cs",
+              "ToolTip": "E:\\Dell Inspiron\\Desktop\\NEWSHORE AIR\\backEnd\\backEnd\\Program.cs",
+              "RelativeToolTip": "backEnd\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:28:51.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Dell Inspiron\\Desktop\\NEWSHORE AIR\\backEnd\\backEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "backEnd\\appsettings.json",
+              "ToolTip": "E:\\Dell Inspiron\\Desktop\\NEWSHORE AIR\\backEnd\\backEnd\\appsettings.json",
+              "RelativeToolTip": "backEnd\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T20:28:12.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MySQLiteContext.cs",
+              "DocumentMoniker": "E:\\Dell Inspiron\\Desktop\\NEWSHORE AIR\\backEnd\\backEnd\\Data\\MySQLiteContext.cs",
+              "RelativeDocumentMoniker": "backEnd\\Data\\MySQLiteContext.cs",
+              "ToolTip": "E:\\Dell Inspiron\\Desktop\\NEWSHORE AIR\\backEnd\\backEnd\\Data\\MySQLiteContext.cs",
+              "RelativeToolTip": "backEnd\\Data\\MySQLiteContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:28:01.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
